@@ -4,19 +4,19 @@ import { Quote } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "Working with Success Ituma was a turning point in my career. His ability to cut through the noise and focus on what truly matters is unparalleled.",
+    quote: "Working with Collins Munir was a turning point in my career. His ability to cut through the noise and focus on what truly matters is unparalleled.",
     author: "Sarah Jenkins",
     role: "CEO, InnovateTech",
     image: "https://i.pravatar.cc/100?img=32"
   },
   {
-    quote: "The leadership retreat led by Success was transformative for our executive team. We've never been more aligned or more effective.",
+    quote: "The leadership retreat led by Collins Munir was transformative for our executive team. We've never been more aligned or more effective.",
     author: "David Chen",
     role: "Managing Director, Global Finance",
     image: "https://i.pravatar.cc/100?img=12"
   },
   {
-    quote: "If you're looking for someone who will challenge you and support you in equal measure, Success is the coach for you.",
+    quote: "If you're looking for someone who will challenge you and support you in equal measure, Collins Munir is the coach for you.",
     author: "Marcus Thorne",
     role: "Founder, GreenScale",
     image: "https://i.pravatar.cc/100?img=53"
@@ -32,7 +32,7 @@ const Testimonials = () => {
         <div className="text-center mb-16">
           <Quote className="w-12 h-12 text-[#D4AF37] mx-auto mb-6 opacity-50" />
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Client Voices</h2>
-          <p className="text-slate-400 max-w-xl mx-auto">Hear from the visionary leaders who have partnered with Success Ituma.</p>
+          <p className="text-slate-400 max-w-xl mx-auto">Hear from the visionary leaders who have partnered with Collins Munir.</p>
         </div>
 
         <div className="overflow-hidden" ref={emblaRef}>

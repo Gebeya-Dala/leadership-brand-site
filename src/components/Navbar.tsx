@@ -33,7 +33,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <span className="text-2xl font-bold tracking-tighter text-slate-900">
-            SUCCESS<span className="text-[#D4AF37]">ITUMA</span>
+            COLLINS<span className="text-[#D4AF37]">MUNIR</span>
           </span>
         </div>
 

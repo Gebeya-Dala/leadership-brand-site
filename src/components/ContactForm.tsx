@@ -12,7 +12,7 @@ const ContactForm = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    toast.success("Thank you! Your message has been sent. Success will contact you shortly.");
+    toast.success("Thank you! Your message has been sent. Collins will contact you shortly.");
     setFormData({ name: '', email: '', service: 'Executive Coaching', message: '' });
   };
 
@@ -34,7 +34,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900">Email</h4>
-                  <p className="text-slate-600">hello@successituma.com</p>
+                  <p className="text-slate-600">hello@collinsmunir.com</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -106,7 +106,7 @@ const ContactForm = () => {
                   required
                   value={formData.message}
                   onChange={(e) => setFormData({...formData, message: e.target.value})}
-                  placeholder="How can Success help you?"
+                  placeholder="How can Collins help you?"
                   className="w-full px-5 py-4 rounded-xl border-slate-200 focus:ring-2 focus:ring-[#D4AF37] focus:border-transparent outline-none bg-white transition-all"
                 ></textarea>
               </div>

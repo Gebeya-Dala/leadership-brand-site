@@ -32,13 +32,13 @@ const About = () => {
             </h2>
             <div className="space-y-6 text-slate-600 text-lg leading-relaxed">
               <p>
-                With over 15 years of experience coaching Fortune 500 executives and startup founders, Success Ituma brings a unique blend of strategic acumen and emotional intelligence to the table.
+                With over 15 years of experience coaching Fortune 500 executives and startup founders, Collins Munir brings a unique blend of strategic acumen and emotional intelligence to the table.
               </p>
               <p>
                 The coaching philosophy is rooted in the belief that true leadership starts from within. By mastering your inner landscape, you unlock the ability to navigate external complexities with grace, decisiveness, and impact.
               </p>
               <p>
-                "Success is not just about the destination; it's about who you become in the process of reaching it."
+                "Collins is not just about the destination; it's about who you become in the process of reaching it."
               </p>
             </div>
             
@@ -56,7 +56,7 @@ const About = () => {
           <div className="relative">
             <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                <img 
-                 src="https://storage.googleapis.com/dala-prod-public-storage/generated-images/1de79085-df8d-48c5-bb20-5902983075bb/blog-post-2-f50f074d-1772026282398.webp" 
+                 src="https://storage.googleapis.com/dala-prod-public-storage/generated-images/1de79085-df8d-48c5-bb20-5902983075bb/hero-success-ituma-e637ccaa-1772026282300.webp" 
                  alt="Leadership session" 
                  className="w-full h-full object-cover"
                />

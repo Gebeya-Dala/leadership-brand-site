@@ -23,7 +23,7 @@ const Hero = () => {
             <span className="text-[#D4AF37]">Visionary</span> Potential
           </h1>
           <p className="text-lg md:text-xl text-slate-600 mb-8 max-w-lg leading-relaxed">
-            Success Ituma empowers executives and founders to master their influence, 
+            Collins Munir empowers executives and founders to master their influence, 
             scale their impact, and lead with unparalleled clarity in a complex world.
           </p>
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
@@ -64,7 +64,7 @@ const Hero = () => {
           <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border-[12px] border-white">
             <img
               src="https://storage.googleapis.com/dala-prod-public-storage/generated-images/1de79085-df8d-48c5-bb20-5902983075bb/hero-success-ituma-e637ccaa-1772026282300.webp"
-              alt="Success Ituma"
+              alt="Collins Munir"
               className="w-full h-auto object-cover aspect-[4/5]"
             />
           </div>

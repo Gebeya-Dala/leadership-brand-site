@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-20">
           <div className="md:col-span-2">
             <span className="text-3xl font-bold tracking-tighter mb-6 block">
-              SUCCESS<span className="text-[#D4AF37]">ITUMA</span>
+              COLLINS<span className="text-[#D4AF37]">MUNIR</span>
             </span>
             <p className="text-slate-400 text-lg mb-8 max-w-sm leading-relaxed">
               Empowering global leaders to master their influence and lead with clarity in a complex world.
@@ -57,7 +57,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-10 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-slate-500 text-sm">
-          <p>© 2024 Success Ituma. All rights reserved.</p>
+          <p>© 2024 Collins Munir. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

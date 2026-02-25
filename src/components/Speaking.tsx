@@ -34,7 +34,7 @@ const Speaking = () => {
             <span className="text-[#D4AF37] font-bold tracking-widest uppercase text-sm">Speaking</span>
             <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mt-4 mb-6 leading-tight">Inspiring Audiences Worldwide</h2>
             <p className="text-slate-600 text-lg mb-8 leading-relaxed">
-              Success Ituma is a sought-after speaker for corporate events, retreats, and international conferences, delivering high-impact messages that resonate and drive action.
+              Collins Munir is a sought-after speaker for corporate events, retreats, and international conferences, delivering high-impact messages that resonate and drive action.
             </p>
             <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-video">
                <img 
